@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "node-portfolio-generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app Learnantino learnantino-portfolio-generator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renusushmak/portfolio-generator.git"
+  },
+  "author": "renusushmak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renusushmak/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/renusushmak/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
